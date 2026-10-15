@@ -18,26 +18,14 @@ Core tools, methodologies, and technologies used in my research and professional
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 
-#### Data Science & AI
+<br>
+<div align="center">
 
--   Machine Learning
--   Bayesian Inference
--   Bayesian Modeling
--   Causal AI
--   Causal Inference
+| 🔬 Data Science & AI | 🧮 Quantitative Methods |
+|:---------------------|:-----------------------|
+| • Machine Learning<br>• Bayesian Inference<br>• Bayesian Modeling<br>• Causal AI<br>• Causal Inference | • Statistical Modeling<br>• Mechanistic Ecological Modeling<br>• Complex Systems<br>• Spatial Analysis<br>• Data Visualization |
 
-#### Quantitative Methods
-
--   Statistical Modeling
--   Quantitative Methods
--   Mechanistic Ecological Modeling
--   Complex Systems
-
-#### Geospatial Analysis
-
--   Spatial Analysis
--   Geospatial Analysis
--   Data Visualization
+</div>
 
 ------------------------------------------------------------------------
 
